@@ -23,4 +23,3 @@ label = customtkinter.CTkLabel(root, text="UUID: ")
 label.pack()
 
 root.mainloop()
-0
